@@ -1,5 +1,5 @@
 theory Bipolar
-  imports Real_Vector_Spaces
+  imports HOL.Real_Vector_Spaces
 begin
 
 (* Adapted from definition of bounded_bilinear in Real_Vector_Spaces *)
